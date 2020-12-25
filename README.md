@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I am a researcher, programmer, learner
 - 🔭 I’m currently working on Autonomous Drones
 - 🌱 I’m currently learning c++
 - 🤔 I’m looking for help with internship
