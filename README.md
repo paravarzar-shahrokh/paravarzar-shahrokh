@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I am a researcher, programmer, learner
-- 🔭 I’m currently working on Autonomous Drones
-- 🌱 I’m currently learning c++
-- 🤔 I’m looking for help with internship
+- 🔭 I’m currently working on AWS DevOps
+- 🌱 I’m currently learning Project Managment
+- 🤔 I’m looking for DevOps/MLOps position
 
 <!--
 **paravarzar-shahrokh/paravarzar-shahrokh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
